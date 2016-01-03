@@ -13,7 +13,7 @@ describe('generator-redux-react:app', function () {
 
   it('creates files', function () {
     assert.file([
-      'dummyfile.txt'
+      'redux_react_file_test.txt'
     ]);
   });
 });

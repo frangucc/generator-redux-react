@@ -1,6 +1,6 @@
 {
   "name": "generator-redux-react",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Redux react project structure for the microservices-ecs-empire-seed",
   "homepage": "http://franchino.firebaseapp.com/#/seeds",
   "author": {

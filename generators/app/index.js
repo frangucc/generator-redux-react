@@ -29,8 +29,8 @@ module.exports = yeoman.generators.Base.extend({
 
   writing: function () {
     this.fs.copy(
-      this.templatePath('dummyfile.txt'),
-      this.destinationPath('dummyfile.txt')
+      this.templatePath('redux_react_file_test.txt'),
+      this.destinationPath('redux_react_file_test.txt')
     );
   },
 
